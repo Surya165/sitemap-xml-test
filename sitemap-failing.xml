@@ -1,9 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kb.netgear.com/000061525/GS724TPv2-GS724TPP-Firmware-Version-2-0-0-16</loc>
-    <lastmod>2025-09-24</lastmod>
+    <loc>https://kb.netgear.com/000066694/Which-optic-ca-25G-and-100G-modules-are-compatible-with-M4350-and-M4500-switches</loc>
+    <lastmod>2025-09-25</lastmod>
     <priority>0.5</priority>
   </url>
-  <!-- Add more failing URLs here -->
+  <url>
+    <loc>https://kb.netgear.com/11621/EU-Declarations-of-Conformity</loc>
+    <lastmod>2025-09-25</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kb.netgear.com/000068432/GS108Ev4-Firmware-Version-1-0-1-9</loc>
+    <lastmod>2025-09-25</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kb.netgear.com/000066102/UK-PSTI-Declaration-of-Conformity</loc>
+    <lastmod>2025-09-25</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kb.netgear.com/000062897/UKCA-Declarations-of-Conformity</loc>
+    <lastmod>2025-09-25</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kb.netgear.com/000065847/Which-NETGEAR-access-points-support-Insight-Mesh-WiFi</loc>
+    <lastmod>2025-09-25</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kb.netgear.com/000068431/RBE770-RBE771-Firmware-Version-10-5-20-3</loc>
+    <lastmod>2025-09-25</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kb.netgear.com/000068430/RBE370-RBE371-Firmware-Version-12-1-3-11</loc>
+    <lastmod>2025-09-25</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kb.netgear.com/000068429/R9000-Firmware-Version-1-0-6-46</loc>
+    <lastmod>2025-09-25</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kb.netgear.com/000068428/R7800-Firmware-Version-1-0-4-96</loc>
+    <lastmod>2025-09-25</lastmod>
+    <priority>0.5</priority>
+  </url>
 </urlset>
