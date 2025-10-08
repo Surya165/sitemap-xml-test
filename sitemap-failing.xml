@@ -1,803 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kb.netgear.com/195/SC101-Installation-Instructions</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/29850/Guideline-of-using-ReadyNAS-6-4-0-firmware-with-a-Nighthawk-router</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/de/000065328/Sicherheitsempfehlung-für-die-Offenlegung-sensibler-Informationen-auf-einigen-Routern-und-WiFi-Systemen-PSV-2020-0449</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/19973/XSM72xxs-MIBs-for-Firmware-9-0-1-17</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/ja/50286/アクセスポイントとして使用中に-ルータのIPアドレスを忘れた場合の確認方法はありますか</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/19974/GSM72xxP-MIBs-for-Firmware-9-0-2-2</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/de/000061944/Sicherheitsempfehlung-für-die-Offenlegung-von-Administratoranmeldedaten-auf-einigen-WiFi-Systemen-PSV-2020-0068</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/19971/GSM7224v2-GSM7248v-MIBs-for-Firmware-8-0-1-29-tar-bz2-format</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/23925/A6100-Software-Version-1-0-0-12</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/20875/ReadyDATA-RD5200-Initial-Firmware-Version-1-0-0</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/000062763/R8000P-Firmware-Version-1-4-1-68</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/19972/GSM73xxSv2-MIBs-for-Firmware-Version-8-0-3-28</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/000054788/GC110-GC110P-GC510P-GC510PP-Firmware-Version-1-0-2-11</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000058860/8l8tOLU2EuGXXWlExSNsj02h54Kw8CSe</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/000065491/Security-Advisory-for-Denial-of-Service-on-Some-WiFi-Systems-PSV-2021-0165</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000053850/Get-the-Milestone-Mobile-App</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/000064636/AC2400-Firmware-Version-1-2-0-90</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000053852/Set-Up-Email-Notifications</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/000038846/RBR50-RBS50-Firmware-Version-1-11-0-20</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000051199/Insight-App-Android-Version-3-1-4</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/ja/000062633/ReadyNAS-で-SSH-の使用はサポート対象ですか</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/de/31238/Was-kann-ich-an-die-Netzwerkanschlüsse-an-meinem-Orbi-WLAN-System-anschließen</loc>
-    <lastmod>2025-08-06</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000053240/Security-Advisory-for-Speculative-Code-Execution-Spectre-and-Meltdown-on-Some-ReadyNAS-and-ReadyDATA-Storage-Systems-and-Some-Connected-Home-Products-PSV-2018-0005</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000061575/M4500-32C-CSM4532-Firmware-Version-7-0-0-16</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/26593/DGN2200-Firmware-Version-1-0-0-50</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/21617/How-do-I-configure-voice-VLAN-and-prioritize-voice-traffic-using-the-web-interface-on-my-managed-switch</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000053244/GS810EMX-Firmware-Version-1-0-0-1</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/zh_CN/000053156/Security-Advisory-for-Security-Misconfiguration-on-Some-Routers-PSV-2017-0326</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/fr/24322/Comment-définir-ou-modifier-des-routes-statiques-sur-un-routeur-NETGEAR</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000060276/RBS50Y-Firmware-Version-2-2-1-204</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000049556/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-Routers-Gateways-and-Extenders-PSV-2017-2184</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ru/000064822/Рекомендации-по-безопасности-для-обхода-аутентификации-в-WAC124-PSV-2021-0341</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/000065322/Avvertenza-sulla-sicurezza-per-l-overflow-del-buffer-di-pre-autenticazione-su-alcuni-router-PSV-2022-0061</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000066628/WAX638E-Firmware-Version-10-8-13-2</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/000055138/Avvertenza-sulla-sicurezza-per-l-overflow-del-buffer-pre-autenticazione-su-alcuni-router-e-gateway-PSV-2017-2491</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000059519/How-do-I-add-a-manager-to-my-Insight-Pro-organization-using-the-Insight-Cloud-Portal</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000061782/Why-can-t-I-access-my-NETGEAR-app-on-my-Android-device</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000038532/EX6100v2-EX6150v2-Firmware-Version-1-0-1-50</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/000064146/Avvertenza-Sicurezza-Protezione-relativa-all-inserimento-dei-comandi-post-autenticazione-in-alcuni-sistemi-WiFi-PSV-2020-0555</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/000065859/Avvertenza-sulla-sicurezza-relativa-all-overflow-del-buffer-di-pre-autenticazione-su-CAX30-PSV-2023-0093</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/es/000064743/Aviso-de-seguridad-para-desbordamiento-de-pila-posterior-a-la-autenticación-en-R7000-PSV-2018-0331</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/23897/Comparison-between-different-versions-of-WNR2000</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/es/000064269/Cómo-puedo-cambiar-Internet-of-Things-IoT-nombre-de-red-SSID-y-la-contraseña-en-mi-sistema-Orbi-WiFi-6E</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/000065625/Avvertenza-sulla-sicurezza-relativa-all-overflow-del-buffer-post-autenticazione-su-RAX30-PSV-2022-0302</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ja/000066557/セキュリティアドバイザリー-PSV-2024-0117</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ja/50087/ATA6のHDDをSC101にインストールしましたが-Storage-Central-Managerから認識されません</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ja/50039/GS105Ev2をバージョン-1-4-0-2-にアップデートした後-1番ポートのみが1Gbpsでリンクしなくなりました</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/de/000064811/Sicherheitsempfehlung-für-die-Befehlseinspritzung-nach-der-Authentifizierung-bei-einigen-Smart-Managed-Pro-Switches-PSV-2021-0173</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000065360/Security-Advisory-for-Pre-Authentication-Buffer-Overflow-on-Some-Routers-and-WiFi-Systems-PSV-2021-0318</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000060231/Security-Advisory-for-Pre-Authentication-Command-Injection-on-Some-Wireless-Access-Points-PSV-2018-0263</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000065667/Security-Advisory-for-Post-authentication-Buffer-Overflow-on-Some-Routers-PSV-2023-0068</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/25992/NETGEAR-ReadyRECOVER-FAQs</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/es/31083/Puedo-conectar-AirPort-Extreme-AirPort-Time-Capsule-o-AirPort-Express-a-mi-red-Orbi</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/23077/How-do-I-create-and-enable-bonded-adapters-on-my-ReadyNAS-OS-6-storage-system</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ru/000062723/Рекомендации-по-безопасности-для-отказа-в-обслуживании-на-NMS300-PSV-2020-0537</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/000051483/Avvertenza-sulla-sicurezza-relativa-all-esecuzione-di-comandi-pre-autenticazione-su-alcuni-router-e-gateway-PSV-2017-2451</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000068344/DGN2200v4-Firmware-Version-1-0-0-132-All-Regions-Except-Germany</loc>
-    <lastmod>2025-08-11</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/23538/How-do-I-vertically-expand-an-existing-volume-on-my-ReadyDATA-storage-system</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ja/000064765/セキュリティアドバイザリー-PSV-20-0111-に掲載されています</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ja/000053200/セキュリティアドバイザリー-PSV-2017-2211</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/25163/How-do-I-configure-the-General-Settings-for-my-ProSAFE-Wireless-Controller-WC7600</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/de/000060633/Sicherheitshinweis-zu-Stack-Überlauf-nach-Authentifizierung-auf-R7800-PSV-2018-0135</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/000062661/Avvertenza-sulla-sicurezza-per-lo-script-cross-site-memorizzato-su-alcuni-router-e-sistemi-WiFi-PSV-2018-0487</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000036950/How-do-I-see-the-devices-that-are-connected-to-my-router-using-genie-mobile-app-version-3-0-or-higher</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/22769/WNR1000v2-Firmware-Version-1-1-2-58-Except-NA-RU</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/000062722/Avvertenza-sulla-sicurezza-per-Denial-of-Service-su-NMS300-PSV-2020-0500</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/24915/PTV3000-Firmware-Version-2-4-46</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000037992/RBW30-Firmware-Version-1-8-0-8</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/25169/How-do-I-configure-Log-Syslog-Alarm-Notification-and-Email-Settings-on-my-ProSAFE-Wireless-Controller-WC7600</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/22362/Cos-è-il-VPN-Virtual-Private-Networking-1479991164949</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/de/000061809/Ich-erhalte-eine-Fehlermeldung-wenn-ich-versuche-NETGEAR-Armor-zu-aktivieren-Was-kann-ich-tun</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ja/000061497/セキュリティアドバイザリー-PSV-2019-0243</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000061935/Security-Advisory-for-Admin-Credential-Disclosure-on-Some-WiFi-Systems-PSV-2020-0042</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000061217/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-Routers-and-Gateway-PSV-2018-0336</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/zh_CN/000051505/针对某些路由器上的跨站请求伪造的安全报告-PSV-2016-0101</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000038771/Why-is-there-latency-or-no-reply-when-pinging-the-IP-address-of-my-switch</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/de/20363/DGN2200v3-Firmware-Version-1-1-00-11-Deutsche</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000061500/Security-Advisory-for-Authentication-Bypass-on-RAX40-PSV-2019-0266</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000037820/What-is-power-saving-mode-and-how-do-I-enable-or-disable-it-on-my-GS808E-Nighthawk-S8000-Gaming-Streaming-Switch</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000066575/RAX5-Firmware-Version-1-0-9-44-1</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ru/000064476/Рекомендации-по-безопасности-для-введения-команд-после-аутентификации-на-некоторых-моделях-роутеров-и-WiFi-систем-PSV-2020-0195</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/es/000064416/Hay-WiFi-de-6-GHz-disponible-en-mi-región</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000060432/WNDAP620-Firmware-Version-2-1-7</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/de/000061484/Sicherheitshinweis-zu-einer-Sicherheitslücke-durch-Befehlszeilenmanipulation-nach-Authentifizierung-auf-XR500-und-XR700-PSV-2019-0026</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/de/000061463/Sicherheitshinweis-für-fehlende-Zugangskontrolle-auf-Funktionsebene-bei-einigen-Switches-PSV-2018-0542</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000062695/R8000-Firmware-Version-1-0-4-66</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/de/000064670/Ich-kann-keine-Verbindung-zu-meinem-Orbi-WiFi-6E-System-herstellen-während-es-sich-im-Access-Point-Modus-befindet-Was-kann-ich-tun</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000063819/WAX202-Firmware-Version-1-0-1-0</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/30302/D6400-Firmware-Version-1-0-0-44</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000059147/Security-Advisory-for-Pre-Authentication-Command-Injection-on-Some-Gateways-Routers-and-Extenders-PSV-2016-0074</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/fr/21661/Qu-est-ce-qu-un-protocole-RIP-Routing-information-Protocol-et-comment-fonctionne-t-il-avec-mon-switch-manageable</loc>
-    <lastmod>2025-07-16</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/fr/23438/Smart-Wizard-Comment-modifier-le-mot-de-passe-WiFi-ou-le-nom-de-réseau-SSID-de-votre-routeur-NETGEAR-à-l-aide-de-Smart-Wizard</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/20026/Come-posso-cambiare-la-password-admin-sul-mio-router-NETGEAR</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000060962/Security-Advisory-for-Post-Authentication-Stack-Overflow-on-Some-Routers-Gateways-and-WiFi-Systems-PSV-2018-0032</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/fr/24131/Qu-est-ce-que-le-service-de-diffusion-en-continu-ReadyDLNA-et-comment-l-activer-sur-mon-système-de-stockage-ReadyNAS-OS-6-1479991146030</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/12902/Power-over-Ethernet-PoE-standards-and-compatibility</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/fr/000065563/Avis-de-sécurité-pour-déni-de-service-sur-certains-routeurs-PSV-2020-0283</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000039943/R7100LG-Firmware-Version-1-0-0-32</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000061355/How-do-I-restore-the-BR500-router-configuration-settings</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000066665/RS500-Firmware-Version-1-0-1-90</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000049476/WNDR4500v3-Firmware-Version-1-0-0-48</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/fr/000064052/Avis-de-sécurité-relatif-au-débordement-de-la-mémoire-tampon-après-authentification-sur-certains-routeurs-et-relais-PSV-2018-0618</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000062713/Security-Advisory-for-Stored-Cross-Site-Scripting-on-Some-Routers-PSV-2019-0015</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/fr/000061204/Notifications-de-sécurité-pour-une-injection-de-commandes-après-authentification-sur-certains-routeurs-passerelles-et-systèmes-Wifi-PSV-2018-0144</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000066225/M4350-Firmware-Version-14-0-2-23</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000064237/What-is-the-difference-between-primary-and-trusted-devices-used-for-my-NETGEAR-account-two-factor-authentication-2FA</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/fr/1118/Comment-configurer-un-serveur-DMZ-par-défaut-sur-mon-routeur-NETGEAR</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000064212/SRR60-SRS60-Firmware-Version-2-7-0-122</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000061040/Why-do-I-get-an-error-message-when-I-try-to-check-out-in-the-NETGEAR-Store</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/23605/M4100-Firmware-Version-10-0-1-21</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ja/000049015/セキュリティアドバイザリー-PSV-2017-2149</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/es/000062088/Cómo-puedo-iniciar-mi-prueba-gratuita-de-30-días-del-Control-parental-inteligente-de-NETGEAR</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/fr/000064463/Avis-de-sécurité-pour-plusieurs-vulnérabilités-sur-certains-points-d-accès-sans-fil-PSV-2021-0287</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/000065417/Avvertenza-sulla-sicurezza-per-l-iniezione-dei-comandi-su-alcuni-sistemi-Orbi-WiFi-PSV-2022-0187</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000064094/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-WiFi-Systems-PSV-2020-0080</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/22266/Risoluzione-dei-problemi-Impossibile-accedere-alle-risorse-di-rete-o-a-Internet</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/de/000064759/Sicherheitsempfehlung-für-die-Offenlegung-sensibler-Informationen-auf-einigen-Routern-und-Extendern-PSV-2019-0272</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/fr/000065850/Avis-de-sécurité-pour-une-mauvaise-configuration-de-sécurité-sur-le-NMS300-PSV-2023-0066</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/000055190/Avvertenza-sulla-sicurezza-relativa-alla-divulgazione-di-informazioni-sensibili-su-alcuni-router-gateway-ed-extender-PSV-2017-3059</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000065600/NBR750-Firmware-Version-4-6-5-11-1-5-66</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ja/000058225/NETGEAR-GS728TPv2-GS728TPPv2-GS752TPv2-GS752TPPスイッチでサポートされているSNMPバージョンとMIBを教えてください</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000065612/NETGEAR-Engage-Version-1-1-4-11</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000065857/NETGEAR-Insight-Cloud-Portal-and-App-Version-7-1</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000063936/R6800-Firmware-Version-1-2-0-88</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/fr/000053252/Comment-allumer-ou-éteindre-les-voyants-des-ports-ou-modifier-leur-couleur-leur-fréquence-et-leur-luminosité-sur-mon-switch-GS810EMX-Nighthawk-Pro-Gaming</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000065430/WAC540-WAC564-Firmware-Version-9-7-0-6</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/000064518/Avvertenza-Sicurezza-Protezione-relativa-all-immissione-dei-comandi-post-autenticazione-su-alcuni-router-e-sistemi-WiFi-PSV-2020-0556</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/fr/000062327/Avis-de-sécurité-pour-déni-de-service-sur-GS808E-PSV-2019-0200</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000061233/Security-Advisory-for-Sensitive-Information-Disclosure-on-WAC505-and-WAC510-PSV-2019-0112</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/es/000065328/Documento-informativo-sobre-seguridad-para-la-divulgación-de-información-confidencial-en-algunos-sistemas-routers-y-WiFi-PSV-2020-0449</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/000060759/Come-posso-rimuovere-un-immagine-da-una-playlist-su-Meural-Canvas</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/23180/How-do-I-access-a-shared-folder-on-my-ReadyNAS-OS-6-storage-system-by-using-a-network-attached-OS-X-device</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ru/000065374/Рекомендации-по-безопасности-для-отказа-в-обслуживании-на-некоторых-моделях-роутеров-и-повторителей-PSV-2019-0159</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000038794/RAIDiator-arm-Version-5-3-13-for-ReadyNAS-Duo-v2-NV-v2</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000064207/vhRXPvLWRcquGZrydwEAUgeNRdTusFnS</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000056287/RBS50Y-Firmware-Version-2-1-3-4</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ja/000064102/セキュリティアドバイザリー-PSV-2020-0088</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/25617/In-che-modo-la-QoS-dinamica-contribuisce-a-migliorare-il-traffico-Internet-del-router-Nighthawk-Gestione</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000062827/M4500-48XF8C-XSM4556-Firmware-Version-7-0-1-13-Signed-Image</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/31195/EX3700-EX3800-EX3920-Firmware-Version-1-0-0-58</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/31154/Cosa-fare-se-il-router-Orbi-non-riesce-a-trovare-il-satellite-Orbi</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/25607/Quali-sono-i-LED-e-i-pulsanti-sulla-parte-superiore-del-router-Nighthawk-X4-R7500</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ja/000055183/セキュリティアドバイザリー-PSV-2017-2624</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ja/50396/ポート転送で登録できるのはいくつまでですか</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ru/000060981/Рекомендации-по-безопасности-для-уязвимости-связанной-с-встраиваемым-межсайтовым-скриптингом-на-точке-доступа-WAC510-PSV-2018-0627</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000066304/GS510TPP-Firmware-Version-7-1-0-5</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000062054/R9000-Firmware-Version-1-0-5-18</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ja/50228/Stora本体のソフトウェアバージョンはどこで確認できますか</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/de/000062663/Sicherheitsempfehlung-für-Stored-Cross-Site-Scripting-auf-einigen-Routern-und-WiFi-Systemen-PSV-2018-0511</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000065879/R6700AX-Firmware-Version-1-0-15-146</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ja/000059703/NETGEAR-Nighthawkスイッチのユーザーインターフェイスを英語に戻す方法を教えてください</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/de/000062329/Sicherheitsempfehlung-für-die-standortübergreifende-Skripterstellung-auf-einigen-Wireless-Controllern-PSV-2020-0180</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/de/000064794/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-Routers-and-WiFi-Systems-PSV-2020-0533</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/de/24733/Wie-füge-ich-meinem-ReadyNAS-OS-6-Desktop-Speichersystem-eine-Festplatte-hinzu-1479991088283</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000062262/AC2400-Firmware-Version-1-2-0-74</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/es/000061742/Aviso-de-seguridad-para-omisión-de-autenticación-en-Algunas-puertas-de-enlace-y-enrutadores-PSV-2018-0570</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/de/000058225/Welche-SNMP-Versionen-und-MIBs-unterstützt-mein-NETGEAR-Switch-GS728TPv2-GS728TPPv2-GS752TPv2-oder-GS752TPP</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/de/000060239/Sicherheitshinweis-zu-Befehlszeilenmanipulation-nach-Authentifizierung-auf-einigen-Wireless-Access-Points-PSV-2018-0285</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/de/000064750/Sicherheitsempfehlung-für-Denial-of-Service-auf-einigen-Routern-PSV-2019-0116</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/it/000063967/Avvertenza-Sicurezza-Protezione-per-un-vulnerabilità-di-configurazione-errata-Sicurezza-Protezione-su-XR1000-PSV-2021-0101</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/21981/What-is-Protocol-Independent-Multicast-Sparse-Mode-PIM-SM-and-how-does-it-work-with-my-managed-switch</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ja/000061227/セキュリティアドバイザリー-PSV-2018-0394</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000064672/R6350-Firmware-Version-1-1-0-86</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/de/30858/Mein-Router-startet-sich-ständig-neu-was-kann-ich-tun</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ja/000060767/Meural-Canvas-でサポートされる画像およびビデオの形式はどれですか</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/es/000064097/Aviso-de-seguridad-para-la-inyección-de-comandos-posterior-a-la-autenticación-en-algunos-sistemas-WiFi-PSV-2020-0083</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000065477/Security-Advisory-for-Post-Authentication-Command-Injection-on-Some-Routers-and-WiFi-Systems-PSV-2020-0565</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000063799/GqQNdwXvYkJpAVGGoOzkZFVUXLQJLYxI</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/es/000064814/Aviso-de-seguridad-para-configuración-incorrecta-de-seguridad-en-algunos-routers-PSV-2021-0191</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ja/000062246/ミューラル-Meural-で無料で見られるサンプル絵画はどのようなものがありますか</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/de/24942/So-richten-Sie-meinen-WLAN-Extender-so-ein-dass-er-dieselbe-SSID-wie-mein-Router-verwendet</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000064681/RBR850-RBS850-Firmware-Version-4-6-7-13</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/21420/How-do-I-reset-the-ReadyNAS-to-factory-default</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/000062703/R6400-Firmware-Version-1-0-1-68</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/ja/000065710/セキュリティアドバイザリー-PSV-2021-0194</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000060476/How-do-I-reconnect-my-devices-to-Insight-after-changing-my-BR500-router-s-DHCP-address</loc>
   </url>
   <url>
     <loc>https://kb.netgear.com/000061251/How-can-I-add-devices-in-bulk-in-Insight-Pro</loc>
-    <lastmod>2025-07-07</lastmod>
   </url>
   <url>
-    <loc>https://kb.netgear.com/000059499/JGS524PE-JGS524Ev2-Firmware-Version-2-6-0-21</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000061879/How-can-I-purchase-an-Insight-Premium-or-Pro-device-credit-on-NETGEAR-s-website</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/000061288/RBS50Y-Firmware-Version-1-0-0-46-Orbi-Extender-Mode</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000061891/Why-can-t-my-stacked-NETGEAR-M4300-switches-reach-devices-on-the-network</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/de/000044336/Wissensdatenbank-Zielseite-für-Insight-Managed-Switches</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000061917/Why-does-my-NETGEAR-M4300-run-out-of-memory-and-crash</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/de/000061748/Sicherheitsempfehlung-für-Die-Standortübergreifende-Skripterstellung-Auf-Einigen-Routern-und-Gateways-PSV-2018-0530</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000061976/What-happens-if-I-downgrade-my-NETGEAR-AirBridge-bundle-device-s-firmware-to-non-bundle-AirBridge-firmware</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/ru/000055169/Рекомендации-по-безопасности-связанные-с-переполнением-стека-после-аутентификации-на-некоторых-моделях-шлюзов-и-повторителей-PSV-2017-2607</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000062003/Who-do-I-contact-for-M4300-HDMI-card-support</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/000061550/RAX75-Firmware-Version-1-0-1-70</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000062004/How-do-I-gain-full-access-to-my-NETGEAR-Smart-Managed-Pro-switch-without-registering</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/fr/000048452/Quels-appareils-puis-je-détecter-contrôler-et-gérer-avec-Insight</loc>
-    <lastmod>2025-08-01</lastmod>
+    <loc>https://kb.netgear.com/000062310/QAEhCwwCJANMshDRkiwrupiYlxvzTkNt</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/it/000066558/Avvertenza-sulla-sicurezza-per-RCE-non-autenticato-su-alcuni-router-WiFi-PSV-2023-0039</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000063744/lDMKyrqDicVZdmRpDtIssKyQMVfOnzMK</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/ja/000030357/WEBインターフェースからのスタックメンバーID変更方法</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000063745/vkdvThfzfBwdWVGlIssvAzwbEwydMcQj</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/de/22559/Manuelle-Konfiguration-eines-Routers-für-Kabel-Internetzugang-DHCP-Smart-Wizard-Interface-1479991080732</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000063747/itTYJmuXEEPwrXCwGpbEQpVdQHhGfZQJ</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/000058242/D6200-Firmware-Version-1-1-00-30</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000064040/xJXilkiLXxaFwduPBCSiAzBrUAYzfgbC</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/000061552/MR60-MS60-Firmware-Version-1-0-0-56</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000053851/Access-Milestone-Arcus-Through-the-Local-Admin-Page-of-the-ReadyNAS</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/000060299/How-do-I-manage-individual-routers-in-the-Insight-Cloud-Portal</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/23786/AT-T-Beam-AirCard-340U-Windows-8-Installation-Instructions</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/es/000053204/Security-Advisory-for-Post-Authentication-Stack-Overflow-on-Some-Routers-PSV-2017-2626</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000053858/Change-or-Delete-a-User-Account</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/de/000051494/Security-Advisory-for-Post-Authentication-Command-Injection-on-Routers-PSV-2017-0329</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/5260/Consumer-Warranty-Information</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/de/000055586/Welche-NETGEAR-Smart-Managed-Plus-Switches-bieten-Firmware-in-mehreren-Sprachen-an</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000053849/Create-an-Optional-User-Account</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/ru/000061743/Рекомендации-по-безопасности-Для-Сохраненных-межсайтовых-сценариев-На-Некоторых-маршрутизаторах-шлюзах-и-WiFi-системах-PSV-2018-0553</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000064381/RtXEZIQZSFAhJRQUWkShkMuHAonamnuX</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/fr/000049032/Notification-de-sécurité-concernant-une-escalade-de-privilèges-verticale-sur-certains-switches-entièrement-manageables-PSV-2017-1937</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/13075/Deploy-a-ProSECURE-UTM-in-a-Multi-SSID-Multi-VLAN-network-with-a-Switch-and-802-1q-trunking</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/19969/WNR1000v3-Firmware-Version-1-0-2-28</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000064791/How-do-I-connect-my-crypto-wallet-to-my-Meural-account-on-mymeuralcom</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/fr/30813/CVE-2015-8289-Contourner-l-authentification-à-l-aide-d-un-canal-ou-d-un-chemin-alternatif-1479991155830</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/212/ProSupport-Service-Offerings</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/ja/000065492/セキュリティアドバイザリー-PSV-2021-0275</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000065315/How-do-I-search-for-help-articles-in-NETGEARs-knowledge-base</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/000064545/GS108Ev3-Firmware-Version-2-06-17</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000060321/5sWq7lLggiJCiCuoLcXacSJ4XtMcjZQN</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/000047401/R7500-Firmware-Version-1-0-0-110</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/8896/Routing-VLANs-between-Layer-3-switch-and-ProSAFE-router</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/000065666/WAX608Y-Firmware-Version-10-4-1-5</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/12143/GPL-Notice</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/ru/000065332/Рекомендации-по-безопасности-для-предварительного-введения-команд-аутентификации-на-некоторых-моделях-роутеров-и-WiFi-систем-PSV-2020-0589</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/12880/Switches-Quality-Of-Service-QoS</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/de/30924/Was-ist-ein-WLAN-Repeater</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/12898/Routing-multiple-subnets-over-a-VPN</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/de/000055196/Sicherheitshinweis-zu-Stack-Überlauf-nach-Authentifizierung-auf-einigen-Routern-Gateways-und-Repeatern-PSV-2017-0308</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/12899/Explanation-of-ReadyNAS-x86-Teaming-options</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/000065160/NETGEAR-Insight-Cloud-Portal-and-App-version-6-8</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/19574/UTM-in-multi-SSID-multi-VLAN-network-with-WMS5316</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/it/000060221/Avvertenza-sulla-sicurezza-relativa-alla-configurazione-errata-della-sicurezza-su-alcuni-router-modem-PSV-2018-0097</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/19598/UTM-Connector-ReadyNAS-Integration-Guide-Legacy-x86</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/fr/000062712/Avis-de-sécurité-pour-les-scripts-inter-sites-stockés-sur-certains-routeurs-PSV-2019-0013</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/21888/How-do-I-set-up-NETGEAR-ReadyCLOUD</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/29963/DST6501-Firmware-Version-1-0-0-34</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/23855/ProSAFE-Lifetime-Warranty</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/23117/How-do-I-gracefully-shut-down-or-restart-my-ReadyNAS-OS-6-storage-system</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/000062312/What-modules-and-cables-are-compatible-with-the-M4250</loc>
   </url>
   <url>
-    <loc>https://kb.netgear.com/de/000064136/Sicherheitsempfehlung-für-Command-Injection-vor-der-Authentifizierung-bei-einigen-WiFi-Systemen-PSV-2020-0504</loc>
-    <lastmod>2025-07-07</lastmod>
-  </url>
-  <url>
-    <loc>https://kb.netgear.com/fr/24392/Qu-est-ce-que-la-fonction-Qualité-de-service-Wi-Fi-Multimedia-et-comment-l-activer-sur-mon-routeur-Nighthawk-R7000-1479991147197</loc>
-    <lastmod>2025-07-07</lastmod>
+    <loc>https://kb.netgear.com/14674/WC7520-using-AD-Integration-for-Client-Authentication</loc>
   </url>
 </urlset>
